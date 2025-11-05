@@ -1,0 +1,1 @@
+AI-powered full-stack Diet Planner built with FastAPI, React, and MongoDB. Features authentication, AI-generated diet plans with Ayurvedic insights, real-time chatbot, charts, multilingual support, and progress tracking — modular, scalable, and responsive design.
